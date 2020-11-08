@@ -1,0 +1,15 @@
+.CounterButton {
+  text-align: center;
+}
+
+#counterButton {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  width: 100px;
+  font-size: 25px;
+  border-radius: 25px;
+  border-style: none;
+  outline: none;
+  cursor: pointer;
+}
